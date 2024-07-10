@@ -17,18 +17,18 @@ results = collection_source.find(query, {"properties.name": 1,
                                          "properties.postcode": 1,
                                          "properties.suburb": 1,
                                          "properties.street": 1,
-                                         "properties.datasource.raw.cuisine": 1,
+                                         "properties.datasource.raw.amenity": 1,
                                          "_id": 0})
 
 inserted_ids = []
 for result in results:
-    cuisine = result["properties"]["datasource"]["raw"]["cuisine"] if "datasource.raw" in result["properties"] else None
+    amenity = result["properties"]["datasource"]["raw"]["amenity"] if "datasource" in result["properties"] else None
     inserted_id = collection_target.insert_one({"name": result["properties"]["name"],
                                                 "city": result["properties"]["city"],
                                                 "suburb": result["properties"]["suburb"],
                                                 "street": result["properties"]["street"],
                                                 "postcode": result["properties"]["postcode"],
-                                                "cuisine": cuisine
+                                                "amenity": amenity
                                                 }).inserted_id
     inserted_ids.append(inserted_id)
 
