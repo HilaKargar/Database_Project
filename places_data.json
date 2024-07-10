@@ -1,0 +1,2242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bistrot La Ruota 100% Minutoli",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mili San Marco",
+                "postcode": "98132",
+                "suburb": "I Circoscrizione",
+                "street": "Strada Provinciale 38 di Mili San Pietro",
+                "lon": 15.507086152564781,
+                "lat": 38.12055945,
+                "formatted": "Bistrot La Ruota 100% Minutoli, Strada Provinciale 38 di Mili San Pietro, 98132 Messina ME, Italy",
+                "address_line1": "Bistrot La Ruota 100% Minutoli",
+                "address_line2": "Strada Provinciale 38 di Mili San Pietro, 98132 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bistrot La Ruota 100% Minutoli",
+                        "phone": "0906018450",
+                        "osm_id": 1191598999,
+                        "amenity": "restaurant",
+                        "cuisine": "focacceria",
+                        "website": "http://www.laruotamessina.it/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Mili San Marco",
+                        "addr:street": "via rota",
+                        "addr:postcode": 98132
+                    }
+                },
+                "website": "http://www.laruotamessina.it/",
+                "contact": {
+                    "phone": "0906018450"
+                },
+                "catering": {
+                    "cuisine": "focacceria"
+                },
+                "place_id": "51580ad3cba0032f40591a7cf77d6e0f4340f00102f901975b06470000000092031e42697374726f74204c612052756f74612031303025204d696e75746f6c69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.507086152564781,
+                    38.12055944999902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Don Minico",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98149",
+                "suburb": "V Circoscrizione",
+                "street": "Via Palermo",
+                "lon": 15.5060568,
+                "lat": 38.2154959,
+                "formatted": "Don Minico, Via Palermo, 98149 Messina ME, Italy",
+                "address_line1": "Don Minico",
+                "address_line2": "Via Palermo, 98149 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food",
+                    "catering.fast_food.sandwich"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Don Minico",
+                        "phone": "+390909587030",
+                        "osm_id": 1603343423,
+                        "amenity": "fast_food",
+                        "cuisine": "sandwich",
+                        "website": "http://www.donminico.com/",
+                        "name:scn": "Donnu Minicu",
+                        "osm_type": "n"
+                    }
+                },
+                "website": "http://www.donminico.com/",
+                "contact": {
+                    "phone": "+390909587030"
+                },
+                "catering": {
+                    "cuisine": "sandwich"
+                },
+                "place_id": "513ad67be019032f4059eb7ca15e951b4340f00103f9013f14915f0000000092030a446f6e204d696e69636f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5060568,
+                    38.215495900012534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Tono",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Faro Superiore",
+                "postcode": "98163",
+                "district": "Contrada Casalotto",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Placido Tardy",
+                "lon": 15.5708376,
+                "lat": 38.2836627,
+                "formatted": "Bar Tono, Via Placido Tardy, 98163 Messina ME, Italy",
+                "address_line1": "Bar Tono",
+                "address_line2": "Via Placido Tardy, 98163 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bar Tono",
+                        "phone": "+39 090 390157",
+                        "osm_id": 2261390089,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Via Nazionale Tono",
+                        "addr:postcode": 98163,
+                        "opening_hours": "Su 6:30-12:00, 16:00-19:00; Mo-Sa 6:30 - 19:00"
+                    }
+                },
+                "opening_hours": "Su 6:30-12:00, 16:00-19:00; Mo-Sa 6:30 - 19:00",
+                "contact": {
+                    "phone": "+39 090 390157"
+                },
+                "place_id": "517ea76ed344242f40596bd8310f4f244340f00103f9010913ca860000000092030842617220546f6e6f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5708376,
+                    38.28366270002228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Happy Sushi Wok",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98125",
+                "suburb": "Pistunina",
+                "street": "Via Adolfo Celi",
+                "lon": 15.5293638,
+                "lat": 38.1511304,
+                "formatted": "Happy Sushi Wok, Via Adolfo Celi, 98125 Messina ME, Italy",
+                "address_line1": "Happy Sushi Wok",
+                "address_line2": "Via Adolfo Celi, 98125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.chinese",
+                    "catering.restaurant.japanese"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Happy Sushi Wok",
+                        "phone": "+39 090 635359",
+                        "osm_id": 4108448791,
+                        "amenity": "restaurant",
+                        "cuisine": "chinese;japanese",
+                        "website": "http://www.happysushiwok.it",
+                        "osm_type": "n",
+                        "addr:city": "Messina"
+                    }
+                },
+                "website": "http://www.happysushiwok.it",
+                "contact": {
+                    "phone": "+39 090 635359"
+                },
+                "catering": {
+                    "cuisine": "chinese;japanese"
+                },
+                "place_id": "51615fa1c5080f2f405913b9ae3d58134340f00103f90117f4e1f40000000092030f486170707920537573686920576f6b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5293638,
+                    38.151130400003375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toronero",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98123",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Maregrosso",
+                "street": "Via Giuseppe La Farina",
+                "housenumber": "185",
+                "lon": 15.5540619,
+                "lat": 38.1792211,
+                "formatted": "Toronero, Via Giuseppe La Farina, 185, 98123 Messina ME, Italy",
+                "address_line1": "Toronero",
+                "address_line2": "Via Giuseppe La Farina, 185, 98123 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Toronero",
+                        "phone": "+39 090 2403661",
+                        "osm_id": 5167055022,
+                        "amenity": "restaurant",
+                        "cuisine": "italian;italian_pizza;argentinian",
+                        "osm_type": "n",
+                        "addr:street": "Via Giuseppe La Farina",
+                        "opening_hours": "Mo-Su 12:00-24:00",
+                        "addr:housenumber": 185
+                    }
+                },
+                "opening_hours": "Mo-Su 12:00-24:00",
+                "contact": {
+                    "phone": "+39 090 2403661"
+                },
+                "catering": {
+                    "cuisine": "italian;italian_pizza;argentinian"
+                },
+                "place_id": "5154eb5800ae1b2f405975a48db7f0164340f00103f901ae00fb3301000000920308546f726f6e65726f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5540619,
+                    38.179221100007375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sale & Pepe",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98125",
+                "district": "Fondo Cassibile",
+                "suburb": "III Circoscrizione",
+                "street": "Via Consolare Valeria",
+                "lon": 15.5373517,
+                "lat": 38.1612417,
+                "formatted": "Sale & Pepe, Via Consolare Valeria, 98125 Messina ME, Italy",
+                "address_line1": "Sale & Pepe",
+                "address_line2": "Via Consolare Valeria, 98125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.pizza",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Sale & Pepe",
+                        "level": 0,
+                        "osm_id": 5747058549,
+                        "amenity": "restaurant",
+                        "cuisine": "pizza",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "wheelchair": "limited",
+                        "contact:phone": "+39 090 2320316",
+                        "opening_hours": "Mo-Sa 11:00-15:00,19:00-23:30; Su 19:00-23:30; PH closed",
+                        "outdoor_seating": "yes"
+                    }
+                },
+                "opening_hours": "Mo-Sa 11:00-15:00,19:00-23:30; Su 19:00-23:30; PH closed",
+                "contact": {
+                    "phone": "+39 090 2320316"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "outdoor_seating": true,
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "pizza"
+                },
+                "place_id": "5165e613c31f132f4059d3226a91a3144340f00103f90175278d560100000092030b53616c6520262050657065"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.537351699999997,
+                    38.1612417000048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosticceria Famulari",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98122",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Il Tirone",
+                "street": "Via Cesare Battisti",
+                "housenumber": "143",
+                "lon": 15.5540215,
+                "lat": 38.188674,
+                "formatted": "Rosticceria Famulari, Via Cesare Battisti, 143, 98122 Messina ME, Italy",
+                "address_line1": "Rosticceria Famulari",
+                "address_line2": "Via Cesare Battisti, 143, 98122 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rosticceria Famulari",
+                        "phone": "+39 090 771447",
+                        "osm_id": 9693153435,
+                        "amenity": "fast_food",
+                        "website": "https://www.rosticceriafamulari.it/",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Cesare Battisti",
+                        "addr:postcode": 98122,
+                        "addr:housenumber": 143
+                    }
+                },
+                "website": "https://www.rosticceriafamulari.it/",
+                "contact": {
+                    "phone": "+39 090 771447"
+                },
+                "place_id": "51ce8fbfb4a81b2f40594cd2397826184340f00103f9019bc8c14102000000920314526f7374696363657269612046616d756c617269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.554021500000001,
+                    38.18867400000872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Corte Dei Mari",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98168",
+                "suburb": "V Circoscrizione",
+                "quarter": "Borgo Case Basse",
+                "street": "Via Consolare Pompea",
+                "lon": 15.5662401,
+                "lat": 38.2222103,
+                "formatted": "La Corte Dei Mari, Via Consolare Pompea, 98168 Messina ME, Italy",
+                "address_line1": "La Corte Dei Mari",
+                "address_line2": "Via Consolare Pompea, 98168 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "La Corte Dei Mari",
+                        "osm_id": 10904591657,
+                        "amenity": "restaurant",
+                        "cuisine": "pasta;italian;fish;mediterranean",
+                        "osm_type": "n",
+                        "wheelchair": "yes",
+                        "reservation": "recommended",
+                        "contact:email": "info@lacortedeimari.it",
+                        "contact:phone": "+39 090 358479",
+                        "opening_hours": "Tu-Su 19:30-24:00",
+                        "changing_table": "no",
+                        "contact:mobile": "+39 327 443 5398",
+                        "toilets:access": "customers",
+                        "contact:website": "https://lacortedeimari.it/",
+                        "outdoor_seating": "yes",
+                        "toilets:wheelchair": "yes"
+                    }
+                },
+                "website": "https://lacortedeimari.it/",
+                "opening_hours": "Tu-Su 19:30-24:00",
+                "contact": {
+                    "phone": "+39 090 358479",
+                    "email": "info@lacortedeimari.it"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "toilets": true,
+                    "changing_table": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "pasta;italian;fish;mediterranean",
+                    "reservation": "recommended"
+                },
+                "place_id": "51185eee38ea212f405939b21963711c4340f00103f90129ddf689020000009203114c6120436f72746520446569204d617269"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.566240100000002,
+                    38.22221030001351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gitano's",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mortelle",
+                "postcode": "98164",
+                "district": "Due Torri",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Circuito",
+                "housenumber": "135",
+                "lon": 15.6316958,
+                "lat": 38.2611719,
+                "formatted": "Gitano's, Via Circuito, 135, 98164 Messina ME, Italy",
+                "address_line1": "Gitano's",
+                "address_line2": "Via Circuito, 135, 98164 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "catering.restaurant.pizza"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Gitano's",
+                        "phone": "090327006",
+                        "osm_id": 11063311308,
+                        "amenity": "restaurant",
+                        "cuisine": "pizza;italian",
+                        "website": "http://www.trattoriagitanos.com/",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Circuito",
+                        "addr:postcode": 98164,
+                        "addr:housenumber": 135
+                    }
+                },
+                "website": "http://www.trattoriagitanos.com/",
+                "contact": {
+                    "phone": "090327006"
+                },
+                "catering": {
+                    "cuisine": "pizza;italian"
+                },
+                "place_id": "51850ac4a16d432f4059a99bb0146e214340f00103f901ccbb6c9302000000920308476974616e6f2773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.631695799999997,
+                    38.26117190001907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Irish Pub",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Sperone",
+                "postcode": "98165",
+                "district": "Papardo",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Consolare Pompea",
+                "housenumber": "244",
+                "lon": 15.6060269,
+                "lat": 38.2569809,
+                "formatted": "Irish Pub, Via Consolare Pompea, 244, 98165 Messina ME, Italy",
+                "address_line1": "Irish Pub",
+                "address_line2": "Via Consolare Pompea, 244, 98165 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.burger"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Irish Pub",
+                        "phone": "+390902321648",
+                        "osm_id": 11817364989,
+                        "amenity": "restaurant",
+                        "cuisine": "burger",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Consolare Pompea",
+                        "addr:postcode": 98165,
+                        "opening_hours": "Tu-Su 19:00-1:00",
+                        "addr:housenumber": 244
+                    }
+                },
+                "opening_hours": "Tu-Su 19:00-1:00",
+                "contact": {
+                    "phone": "+390902321648"
+                },
+                "catering": {
+                    "cuisine": "burger"
+                },
+                "place_id": "5117fe672849362f405954a308c0e4204340f00103f901fdad5ec002000000920309497269736820507562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.606026900000002,
+                    38.256980900018476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Autogrill",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Zaffaria",
+                "postcode": "98128",
+                "suburb": "Pistunina",
+                "street": "Autostrada Messina-Palermo",
+                "lon": 15.5175759,
+                "lat": 38.1426246,
+                "formatted": "Autogrill, Autostrada Messina-Palermo, 98128 Messina ME, Italy",
+                "address_line1": "Autogrill",
+                "address_line2": "Autostrada Messina-Palermo, 98128 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Autogrill",
+                        "osm_id": 1661279407,
+                        "amenity": "cafe",
+                        "website": "https://www.autogrill.it",
+                        "osm_type": "n"
+                    }
+                },
+                "website": "https://www.autogrill.it",
+                "place_id": "51436557b5ff082f4059a34edc8541124340f00103f901af1c0563000000009203094175746f6772696c6c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.517575900000002,
+                    38.14262460000216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paladine Pub",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98122",
+                "district": "Fondo Polimeni",
+                "suburb": "IV Circoscrizione",
+                "street": "Viale Boccetta",
+                "lon": 15.5558643,
+                "lat": 38.1975713,
+                "formatted": "Paladine Pub, Viale Boccetta, 98122 Messina ME, Italy",
+                "address_line1": "Paladine Pub",
+                "address_line2": "Viale Boccetta, 98122 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.pub"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Paladine Pub",
+                        "osm_id": 3771724355,
+                        "amenity": "pub",
+                        "website": "http://www.paladinepub.it/",
+                        "osm_type": "n"
+                    }
+                },
+                "website": "http://www.paladinepub.it/",
+                "place_id": "512207db3e9a1c2f4059e61530044a194340f00103f90143f2cfe00000000092030c50616c6164696e6520507562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5558643,
+                    38.19757130000998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villa Musco",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Spart\u00e0",
+                "hamlet": "Acqualadroni",
+                "postcode": "98163",
+                "suburb": "VI Circoscrizione",
+                "street": "Strada statale Settentrionale Sicula",
+                "lon": 15.5535947,
+                "lat": 38.2905557,
+                "formatted": "Villa Musco, Strada statale Settentrionale Sicula, 98163 Messina ME, Italy",
+                "address_line1": "Villa Musco",
+                "address_line2": "Strada statale Settentrionale Sicula, 98163 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Villa Musco",
+                        "osm_id": 4408056034,
+                        "amenity": "restaurant",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Contrada Piano Rocca",
+                        "contact:fax": "+39 090 846851",
+                        "addr:postcode": 98163,
+                        "contact:email": "info@villamusco.it",
+                        "contact:phone": "+39 090 846851",
+                        "nohousenumber": "yes",
+                        "contact:website": "http://www.villamusco.it/"
+                    }
+                },
+                "website": "http://www.villamusco.it/",
+                "contact": {
+                    "phone": "+39 090 846851",
+                    "email": "info@villamusco.it",
+                    "fax": "+39 090 846851"
+                },
+                "place_id": "51557ab7c3701b2f405918a2deed30254340f00103f901e298bd060100000092030b56696c6c61204d7573636f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5535947,
+                    38.290555700023276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poli Bar",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98125",
+                "suburb": "Gazzi",
+                "street": "Via Consolare Valeria",
+                "lon": 15.5384566,
+                "lat": 38.1646171,
+                "formatted": "Poli Bar, Via Consolare Valeria, 98125 Messina ME, Italy",
+                "address_line1": "Poli Bar",
+                "address_line2": "Via Consolare Valeria, 98125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Poli Bar",
+                        "phone": "+39 090 2926304",
+                        "osm_id": 5209662885,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "contact": {
+                    "phone": "+39 090 2926304"
+                },
+                "place_id": "5175a15e95b0132f40594971522c12154340f00103f901a525853601000000920308506f6c6920426172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.538456599999998,
+                    38.16461710000528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ippocrate Caff\u00e8",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98125",
+                "suburb": "Gazzi",
+                "street": "Viale Giovan Battista Cortesi",
+                "lon": 15.5370816,
+                "lat": 38.1646769,
+                "formatted": "Ippocrate Caff\u00e8, Viale Giovan Battista Cortesi, 98125 Messina ME, Italy",
+                "address_line1": "Ippocrate Caff\u00e8",
+                "address_line2": "Viale Giovan Battista Cortesi, 98125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Ippocrate Caff\u00e8",
+                        "phone": "+39 090 2939619",
+                        "osm_id": 5245848222,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "wheelchair": "yes"
+                    }
+                },
+                "contact": {
+                    "phone": "+39 090 2939619"
+                },
+                "facilities": {
+                    "wheelchair": true
+                },
+                "place_id": "511491065cfc122f4059f8f6f52114154340f00103f9019e4aad38010000009203104970706f63726174652043616666c3a8"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5370816,
+                    38.164676900005304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fratelli Celona",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Orto Liuzzo",
+                "hamlet": "Contrada Marmora",
+                "postcode": "98153",
+                "suburb": "VI Circoscrizione",
+                "street": "Strada statale Settentrionale Sicula",
+                "housenumber": "km 31.390",
+                "lon": 15.4591101,
+                "lat": 38.2531384,
+                "formatted": "Fratelli Celona, Strada statale Settentrionale Sicula, km 31.390, 98153 Messina ME, Italy",
+                "address_line1": "Fratelli Celona",
+                "address_line2": "Strada statale Settentrionale Sicula, km 31.390, 98153 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Fratelli Celona",
+                        "osm_id": 6883666712,
+                        "amenity": "restaurant",
+                        "website": "http://www.fratellicelona.it",
+                        "osm_type": "n",
+                        "addr:street": "SS113dir",
+                        "addr:housenumber": "km 31.390"
+                    }
+                },
+                "website": "http://www.fratellicelona.it",
+                "place_id": "51cf86a17a10eb2e405928b8ced666204340f00103f901186b4c9a0100000092030f46726174656c6c692043656c6f6e61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.459110100000002,
+                    38.25313840001792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chef Express",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "56125",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Maregrosso",
+                "street": "Piazza della Repubblica",
+                "housenumber": "12",
+                "lon": 15.5607803,
+                "lat": 38.1852525,
+                "formatted": "Chef Express, Piazza della Repubblica, 12, 56125 Messina ME, Italy",
+                "address_line1": "Chef Express",
+                "address_line2": "Piazza della Repubblica, 12, 56125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Chef Express",
+                        "osm_id": 7237111020,
+                        "amenity": "cafe",
+                        "website": "https://www.chefexpress.it/",
+                        "operator": "Chef Express S.p.A.",
+                        "osm_type": "n",
+                        "addr:street": "Piazza della Stazione",
+                        "addr:postcode": 56125,
+                        "addr:housenumber": 12
+                    }
+                },
+                "website": "https://www.chefexpress.it/",
+                "operator": "Chef Express S.p.A.",
+                "place_id": "516e7b71981e1f2f4059d0849a5ab6174340f00103f901ec8c5daf0100000092030c436865662045787072657373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.560780300000001,
+                    38.18525250000823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pizzeria Kairos",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98123",
+                "district": "Zaera",
+                "suburb": "IV Circoscrizione",
+                "street": "Via Risorgimento",
+                "housenumber": "192",
+                "lon": 15.5514202,
+                "lat": 38.182929,
+                "formatted": "Pizzeria Kairos, Via Risorgimento, 192, 98123 Messina ME, Italy",
+                "address_line1": "Pizzeria Kairos",
+                "address_line2": "Via Risorgimento, 192, 98123 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.pizza"
+                ],
+                "details": [
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pizzeria Kairos",
+                        "phone": "+39 090 662413",
+                        "osm_id": 8729513381,
+                        "amenity": "restaurant",
+                        "cuisine": "pizza",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Risorgimento",
+                        "addr:postcode": 98123,
+                        "addr:housenumber": 192
+                    }
+                },
+                "contact": {
+                    "phone": "+39 090 662413"
+                },
+                "catering": {
+                    "cuisine": "pizza"
+                },
+                "place_id": "5122b59abf531a2f40591043ac376a174340f00103f901a5cd51080200000092030f50697a7a65726961204b6169726f73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.551420199999999,
+                    38.1829290000079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ritrovo dello Stretto",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98121",
+                "suburb": "V Circoscrizione",
+                "quarter": "Il Ringo",
+                "street": "Viale della Libert\u00e0",
+                "housenumber": "293",
+                "lon": 15.5620984,
+                "lat": 38.2134271,
+                "formatted": "Ritrovo dello Stretto, Viale della Libert\u00e0, 293, 98121 Messina ME, Italy",
+                "address_line1": "Ritrovo dello Stretto",
+                "address_line2": "Viale della Libert\u00e0, 293, 98121 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.bar"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Ritrovo dello Stretto",
+                        "osm_id": 9056425219,
+                        "amenity": "bar",
+                        "osm_type": "n",
+                        "addr:street": "Viale della Libert\u00e0",
+                        "addr:postcode": 98121,
+                        "opening_hours": "Mo-Sa 06:30-20:00; Su 06:30-13:00",
+                        "addr:housenumber": 293
+                    }
+                },
+                "opening_hours": "Mo-Sa 06:30-20:00; Su 06:30-13:00",
+                "place_id": "5192448a5ccb1f2f4059fd504794511b4340f00103f9010315ce1b02000000920315526974726f766f2064656c6c6f205374726574746f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5620984,
+                    38.21342710001225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calipso",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98121",
+                "district": "Fondo Ogliastri",
+                "suburb": "V Circoscrizione",
+                "street": "Viale della Libert\u00e0",
+                "housenumber": "135",
+                "lon": 15.5607127,
+                "lat": 38.2094919,
+                "formatted": "Calipso, Viale della Libert\u00e0, 135, 98121 Messina ME, Italy",
+                "address_line1": "Calipso",
+                "address_line2": "Viale della Libert\u00e0, 135, 98121 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.bar"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Calipso",
+                        "osm_id": 9058321117,
+                        "amenity": "bar",
+                        "osm_type": "n",
+                        "addr:street": "Viale della Libert\u00e0",
+                        "addr:postcode": 98121,
+                        "opening_hours": "Mo-Sa 06:00-20:00",
+                        "addr:housenumber": 135
+                    }
+                },
+                "opening_hours": "Mo-Sa 06:00-20:00",
+                "place_id": "515ae729bc151f2f4059dfa96da1d01a4340f00103f901dd02eb1b0200000092030743616c6970736f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5607127,
+                    38.20949190001169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ricrio Ammare",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98122",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Maregrosso",
+                "street": "Via San Raineri",
+                "lon": 15.5631001,
+                "lat": 38.1837801,
+                "formatted": "Ricrio Ammare, Via San Raineri, 98122 Messina ME, Italy",
+                "address_line1": "Ricrio Ammare",
+                "address_line2": "Via San Raineri, 98122 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Ricrio Ammare",
+                        "osm_id": 9113577352,
+                        "amenity": "cafe",
+                        "toilets": "yes",
+                        "osm_type": "n",
+                        "wheelchair": "limited",
+                        "opening_hours": "Tu-Su 09:30-23:30",
+                        "changing_table": "yes",
+                        "outdoor_seating": "yes",
+                        "toilets:wheelchair": "yes"
+                    }
+                },
+                "opening_hours": "Tu-Su 09:30-23:30",
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": true,
+                    "changing_table": true,
+                    "outdoor_seating": true
+                },
+                "place_id": "51a8bf03a84e202f40595498371b86174340f00103f9018827361f0200000092030d52696372696f20416d6d617265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5631001,
+                    38.18378010000802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "l'Alternativa caffetteria",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98122",
+                "suburb": "IV Circoscrizione",
+                "street": "Via Santa Maria Alemanna",
+                "housenumber": "2/4",
+                "lon": 15.5583376,
+                "lat": 38.1874818,
+                "formatted": "l'Alternativa caffetteria, Via Santa Maria Alemanna, 2/4, 98122 Messina ME, Italy",
+                "address_line1": "l'Alternativa caffetteria",
+                "address_line2": "Via Santa Maria Alemanna, 2/4, 98122 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "l'Alternativa caffetteria",
+                        "phone": "+39 090 901 1919",
+                        "osm_id": 9350389195,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Santa Maria Alemanna",
+                        "addr:postcode": 98122,
+                        "addr:housenumber": "2/4"
+                    }
+                },
+                "contact": {
+                    "phone": "+39 090 901 1919"
+                },
+                "place_id": "511641086dde1d2f4059e3d05367ff174340f00103f901cb9d532d020000009203196c27416c7465726e6174697661206361666665747465726961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.558337599999998,
+                    38.18748180000855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U cioscu da calia",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mortelle",
+                "postcode": "98164",
+                "district": "Due Torri",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Circuito",
+                "lon": 15.6311625,
+                "lat": 38.2609246,
+                "formatted": "U cioscu da calia, Via Circuito, 98164 Messina ME, Italy",
+                "address_line1": "U cioscu da calia",
+                "address_line2": "Via Circuito, 98164 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "U cioscu da calia",
+                        "osm_id": 11063311309,
+                        "amenity": "fast_food",
+                        "website": "https://ucioscudacalia.business.site/?utm_source=gmb&utm_medium=referral",
+                        "osm_type": "n",
+                        "addr:street": "Via Circuito",
+                        "addr:postcode": 98164
+                    }
+                },
+                "website": "https://ucioscudacalia.business.site/?utm_source=gmb&utm_medium=referral",
+                "place_id": "5158ec2fbb27432f4059dde62ffa65214340f00103f901cdbb6c9302000000920311552063696f7363752064612063616c6961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.631162500000002,
+                    38.26092460001903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Eden",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98122",
+                "district": "Fondo Basic\u00f2",
+                "suburb": "IV Circoscrizione",
+                "street": "Corso Cavour",
+                "housenumber": "127",
+                "lon": 15.5546426,
+                "lat": 38.1947706,
+                "formatted": "Bar Eden, Corso Cavour, 127, 98122 Messina ME, Italy",
+                "address_line1": "Bar Eden",
+                "address_line2": "Corso Cavour, 127, 98122 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bar Eden",
+                        "phone": 3288417770,
+                        "osm_id": 11063311317,
+                        "amenity": "cafe",
+                        "cuisine": "italian;coffee_shop;granita;ice_cream",
+                        "osm_type": "n",
+                        "addr:city": "Messina",
+                        "addr:street": "Corso Cavour",
+                        "addr:postcode": 98122,
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 127
+                    }
+                },
+                "contact": {
+                    "phone": 3288417770
+                },
+                "facilities": {
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "italian;coffee_shop;granita;ice_cream"
+                },
+                "place_id": "51d3ef671dfa1b2f4059baa1363eee184340f00103f901d5bb6c9302000000920308426172204564656e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5546426,
+                    38.19477060000959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lido Aosta",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mortelle",
+                "postcode": "98165",
+                "district": "Serri",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Giacomo Rotondo",
+                "lon": 15.610378287706403,
+                "lat": 38.27334825,
+                "formatted": "Lido Aosta, Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "address_line1": "Lido Aosta",
+                "address_line2": "Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Lido Aosta",
+                        "osm_id": 476385974,
+                        "amenity": "restaurant",
+                        "building": "yes",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "5164c6bf8083382f40590e215113fd224340f00102f901b612651c0000000092030a4c69646f20416f737461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.610378287706403,
+                    38.27334825002082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chez Toi",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98121",
+                "district": "Muricello",
+                "suburb": "IV Circoscrizione",
+                "street": "Via Trapani",
+                "lon": 15.5589622,
+                "lat": 38.2047789,
+                "formatted": "Chez Toi, Via Trapani, 98121 Messina ME, Italy",
+                "address_line1": "Chez Toi",
+                "address_line2": "Via Trapani, 98121 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Chez Toi",
+                        "osm_id": 701955008,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "518266214b301e2f4059a63aeb31361a4340f00103f901c0fbd629000000009203084368657a20546f69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5589622,
+                    38.20477890001102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Restaurant",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mortelle",
+                "postcode": "98165",
+                "district": "Serri",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Giacomo Rotondo",
+                "lon": 15.612139472847595,
+                "lat": 38.27252675,
+                "formatted": "Restaurant, Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "address_line1": "Restaurant",
+                "address_line2": "Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Restaurant",
+                        "osm_id": 709895027,
+                        "amenity": "restaurant",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "outdoor_seating": "yes"
+                    }
+                },
+                "facilities": {
+                    "outdoor_seating": true
+                },
+                "place_id": "5134f150586a392f4059e14f1328e2224340f00102f9017323502a0000000092030a52657374617572616e74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.612139472847595,
+                    38.272526750020695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Mortelle",
+                "postcode": "98165",
+                "district": "Serri",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Giacomo Rotondo",
+                "lon": 15.611367380443548,
+                "lat": 38.2726682,
+                "formatted": "Bar, Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "address_line1": "Bar",
+                "address_line2": "Via Giacomo Rotondo, 98165 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bar",
+                        "osm_id": 712124470,
+                        "amenity": "restaurant",
+                        "building": "yes",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "5146b1312505392f4059c4dfa4cae6224340f00102f9013628722a00000000920303426172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.61136738044355,
+                    38.27266820002072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bar Curr\u00f2",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Cumia Inferiore",
+                "hamlet": "Cumia Superiore",
+                "postcode": "98127",
+                "suburb": "III Circoscrizione",
+                "street": "Via Cumia",
+                "lon": 15.502977811096802,
+                "lat": 38.174998349999996,
+                "formatted": "Bar Curr\u00f2, Via Cumia, 98127 Messina ME, Italy",
+                "address_line1": "Bar Curr\u00f2",
+                "address_line2": "Via Cumia, 98127 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.bar"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bar Curr\u00f2",
+                        "osm_id": 890233823,
+                        "amenity": "bar",
+                        "building": "yes",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "51828cc24e86012f405906118f5866164340f00102f901dfe30f350000000092030a4261722043757272c3b2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.502977811096802,
+                    38.17499835000676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Irish Pub",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Sperone",
+                "postcode": "98165",
+                "district": "Papardo",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Consolare Pompea",
+                "housenumber": "244",
+                "lon": 15.606093475632509,
+                "lat": 38.2568624,
+                "formatted": "Irish Pub, Via Consolare Pompea, 244, 98165 Messina ME, Italy",
+                "address_line1": "Irish Pub",
+                "address_line2": "Via Consolare Pompea, 244, 98165 Messina ME, Italy",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.burger",
+                    "catering.restaurant.pizza"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Irish Pub",
+                        "osm_id": 1272739038,
+                        "amenity": "restaurant",
+                        "cuisine": "burger;pizza",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Messina",
+                        "addr:street": "Via Consolare Pompea",
+                        "addr:postcode": 98165,
+                        "addr:housenumber": 244
+                    }
+                },
+                "catering": {
+                    "cuisine": "burger;pizza"
+                },
+                "place_id": "513a5250e251362f405960d3fbdde0204340f00102f901de74dc4b00000000920309497269736820507562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.606093475632509,
+                    38.25686240001846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santoro",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98123",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Il Tirone",
+                "street": "Piazza Cairoli",
+                "housenumber": "22",
+                "lon": 15.5557595,
+                "lat": 38.1862774,
+                "formatted": "Santoro, Piazza Cairoli, 22, 98123 Messina ME, Italy",
+                "address_line1": "Santoro",
+                "address_line2": "Piazza Cairoli, 22, 98123 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.bar",
+                    "commercial",
+                    "commercial.food_and_drink",
+                    "commercial.food_and_drink.confectionery"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Santoro",
+                        "shop": "confectionery",
+                        "osm_id": 1657468573,
+                        "amenity": "bar",
+                        "osm_type": "n",
+                        "addr:street": "Piazza Cairoli",
+                        "addr:postcode": 98123,
+                        "addr:housenumber": 22
+                    }
+                },
+                "commercial": {
+                    "type": "confectionery"
+                },
+                "place_id": "51f4e159828c1c2f40598b8216f0d7174340f00103f9019df6ca620000000092030753616e746f726f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5557595,
+                    38.18627740000837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PK",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98123",
+                "suburb": "IV Circoscrizione",
+                "quarter": "Maregrosso",
+                "street": "Via Camiciotti",
+                "lon": 15.5550106,
+                "lat": 38.1835445,
+                "formatted": "PK, Via Camiciotti, 98123 Messina ME, Italy",
+                "address_line1": "PK",
+                "address_line2": "Via Camiciotti, 98123 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food",
+                    "catering.fast_food.burger"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "PK",
+                        "osm_id": 1657481799,
+                        "amenity": "fast_food",
+                        "cuisine": "burger",
+                        "osm_type": "n"
+                    }
+                },
+                "catering": {
+                    "cuisine": "burger"
+                },
+                "place_id": "51dfdd6f592a1c2f40599072dc627e174340f00103f901472acb6200000000920302504b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.555010600000001,
+                    38.183544500008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Il gallo d'oro - Polli allo spiedo",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98147",
+                "suburb": "Villaggio Aldisio",
+                "street": "Via Scipione Errico",
+                "housenumber": "11a",
+                "lon": 15.530616,
+                "lat": 38.1699659,
+                "formatted": "Il gallo d'oro - Polli allo spiedo, Via Scipione Errico, 11a, 98147 Messina ME, Italy",
+                "address_line1": "Il gallo d'oro - Polli allo spiedo",
+                "address_line2": "Via Scipione Errico, 11a, 98147 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "food": "chicken",
+                        "name": "Il gallo d'oro - Polli allo spiedo",
+                        "osm_id": 1657645004,
+                        "amenity": "fast_food",
+                        "osm_type": "n",
+                        "addr:street": "Via Scipione Errico",
+                        "addr:postcode": 98147,
+                        "addr:housenumber": "11a"
+                    }
+                },
+                "place_id": "51fb777de6ac0f2f405907fb4e71c1154340f00103f901cca7cd6200000000920322496c2067616c6c6f2064276f726f202d20506f6c6c6920616c6c6f2073706965646f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.530616,
+                    38.16996590000604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": 701,
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98164",
+                "suburb": "Torre Faro",
+                "street": "Viale Cariddi",
+                "lon": 15.6417926,
+                "lat": 38.2647502,
+                "formatted": "701, Viale Cariddi, 98164 Messina ME, Italy",
+                "address_line1": "701",
+                "address_line2": "Viale Cariddi, 98164 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": 701,
+                        "osm_id": 1658757917,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "512ea1270a99482f4059c658a555e3214340f00103f9011da3de6200000000920303373031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.641792599999999,
+                    38.26475020001958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": 502,
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98164",
+                "suburb": "Torre Faro",
+                "street": "Via Santa Domenica",
+                "lon": 15.6406017,
+                "lat": 38.2658031,
+                "formatted": "502, Via Santa Domenica, 98164 Messina ME, Italy",
+                "address_line1": "502",
+                "address_line2": "Via Santa Domenica, 98164 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": 502,
+                        "osm_id": 1658757919,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "5123862ef2fc472f40594de102d605224340f00103f9011fa3de6200000000920303353032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.640601699999996,
+                    38.26580310001973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Primeria",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98164",
+                "district": "Margi",
+                "suburb": "VI Circoscrizione",
+                "street": "Via Palazzo",
+                "lon": 15.6421574,
+                "lat": 38.2643711,
+                "formatted": "La Primeria, Via Palazzo, 98164 Messina ME, Italy",
+                "address_line1": "La Primeria",
+                "address_line2": "Via Palazzo, 98164 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "La Primeria",
+                        "osm_id": 1658757920,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "51cdc4cfdac8482f4059b34b86e9d6214340f00103f90120a3de620000000092030b4c61205072696d65726961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.642157399999997,
+                    38.264371100019524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald's",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98125",
+                "district": "Fondo Granata",
+                "suburb": "II Circoscrizione",
+                "street": "Via Adolfo Celi",
+                "lon": 15.5311862,
+                "lat": 38.1535745,
+                "formatted": "McDonald's, Via Adolfo Celi, 98125 Messina ME, Italy",
+                "address_line1": "McDonald's",
+                "address_line2": "Via Adolfo Celi, 98125 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.fast_food",
+                    "catering.fast_food.burger"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "McDonald's",
+                        "brand": "McDonald's",
+                        "osm_id": 1659017279,
+                        "amenity": "fast_food",
+                        "cuisine": "burger",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "brand:wikidata": "Q38076",
+                        "brand:wikipedia": "en:McDonald's"
+                    }
+                },
+                "brand": "McDonald's",
+                "brand_details": {
+                    "wikidata": "Q38076",
+                    "wikipedia": "en:McDonald's"
+                },
+                "facilities": {
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "burger"
+                },
+                "place_id": "514b2c3aa3f70f2f4059fe814754a8134340f00103f9013f98e2620000000092030a4d63446f6e616c642773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.531186199999999,
+                    38.15357450000373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Napoletana",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Sperone",
+                "postcode": "98165",
+                "suburb": "Ganzirri",
+                "street": "Via Francesco Denaro",
+                "lon": 15.6081756,
+                "lat": 38.2577888,
+                "formatted": "La Napoletana, Via Francesco Denaro, 98165 Messina ME, Italy",
+                "address_line1": "La Napoletana",
+                "address_line2": "Via Francesco Denaro, 98165 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "La Napoletana",
+                        "osm_id": 1660415638,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "514a73d0ca62372f40596dad3039ff204340f00103f90196eef7620000000092030d4c61204e61706f6c6574616e61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6081756,
+                    38.25778880001858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Costa",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "postcode": "98121",
+                "district": "Fondo Cardia",
+                "suburb": "V Circoscrizione",
+                "street": "Via Michelangelo Rizzo",
+                "lon": 15.5502571,
+                "lat": 38.2081313,
+                "formatted": "Costa, Via Michelangelo Rizzo, 98121 Messina ME, Italy",
+                "address_line1": "Costa",
+                "address_line2": "Via Michelangelo Rizzo, 98121 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.bar"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Costa",
+                        "osm_id": 1672280954,
+                        "amenity": "bar",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "5198c8714cbb192f40596369e30ba41a4340f00103f9017afbac6300000000920305436f737461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.550257099999996,
+                    38.208131300011495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Time Cafe",
+                "country": "Italy",
+                "country_code": "it",
+                "state": "Sicily",
+                "county": "Messina",
+                "city": "Messina",
+                "village": "Zaffaria",
+                "postcode": "98128",
+                "suburb": "Pistunina",
+                "street": "Autostrada Messina-Palermo",
+                "lon": 15.5175606,
+                "lat": 38.1437976,
+                "formatted": "Time Cafe, Autostrada Messina-Palermo, 98128 Messina ME, Italy",
+                "address_line1": "Time Cafe",
+                "address_line2": "Autostrada Messina-Palermo, 98128 Messina ME, Italy",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Time Cafe",
+                        "osm_id": 1751537901,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "place_id": "517165f5b3fd082f40596ca0b2f567124340f00103f901ed5866680000000092030954696d652043616665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.517560599999998,
+                    38.14379760000233
+                ]
+            }
+        }
+    ]
+}
