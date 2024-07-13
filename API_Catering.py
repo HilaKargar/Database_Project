@@ -16,7 +16,7 @@ if response.status_code == 200:
 
     client = MongoClient("mongodb://localhost:27017")
     db = client["Project"]
-    collection = db["Cataring"]
+    collection = db["Catering"]
 
     if "features" in data:
         collection.insert_many(data["features"])

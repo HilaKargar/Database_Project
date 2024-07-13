@@ -3,7 +3,7 @@ from pymongo import MongoClient
 mongo_uri = "mongodb://localhost:27017/"
 db_name = "Project"
 collection_source = "Commercial"
-collection_target = "Commercial_clean_data"
+collection_target = "Clean_data"
 
 client = MongoClient(mongo_uri)
 db = client[db_name]
@@ -28,7 +28,8 @@ for result in results:
                                                 "suburb": result["properties"]["suburb"],
                                                 "street": result["properties"]["street"],
                                                 "postcode": result["properties"]["postcode"],
-                                                "type": type
+                                                "type": "Commercial",
+                                                "subtype": type
                                                 }).inserted_id
     inserted_ids.append(inserted_id)
 

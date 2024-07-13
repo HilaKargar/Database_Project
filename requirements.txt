@@ -1,0 +1,7 @@
+requests~=2.32.3
+mysql~=0.0.3
+mysql-connector-python~=9.0.0
+streamlit~=1.36.0
+flask~=3.0.3
+neo4j~=5.22.0
+pymongo~=4.8.0
